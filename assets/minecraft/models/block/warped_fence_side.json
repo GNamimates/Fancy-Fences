@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/fence_side",
+  "textures": {
+    "scaffold": "minecraft:block/warped_planks",
+    "wall": "minecraft:block/stripped_warped_stem"
+  }
+}

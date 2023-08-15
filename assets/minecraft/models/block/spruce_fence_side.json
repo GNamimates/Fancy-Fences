@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/fence_side",
+  "textures": {
+    "scaffold": "minecraft:block/spruce_planks",
+    "wall": "minecraft:block/stripped_spruce_log"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/fence_side",
+  "textures": {
+    "scaffold": "minecraft:block/cherry_planks",
+    "wall": "minecraft:block/stripped_cherry_log"
+  }
+}

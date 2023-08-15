@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/fence_side",
+  "textures": {
+    "scaffold": "minecraft:block/nether_bricks",
+    "wall": "minecraft:block/nether_bricks"
+  }
+}

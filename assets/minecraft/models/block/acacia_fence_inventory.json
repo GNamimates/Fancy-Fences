@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/fence_inventory",
+  "textures": {
+    "scaffold": "minecraft:block/acacia_planks",
+    "wall": "minecraft:block/stripped_acacia_log",
+    "texture": "minecraft:block/acacia_log"
+  }
+}
